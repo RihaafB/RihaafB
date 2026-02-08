@@ -58,8 +58,7 @@
 ###
 
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img height="100" src="https://www.umw.edu/cps/wp-content/uploads/sites/48/2022/07/aplus-logo.png" alt="CompTIA A+ Logo" />
-  <img height="100" src="https://partners.comptia.org/images/default-source/templateimages/networkplus-logo.png" alt="CompTIA Network+ Logo" />
+  <img height="100" src="https://www.globalknowledge.com/-/media/global-knowledge/logos/certification-logos/comptia/networkplus-logo.jpg" alt="CompTIA A+ Logo" />
 </div>
 
 
