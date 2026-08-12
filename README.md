@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🎓 A junior student at IAU majoring in Cybersecurity.<br>💻 Developing my skills in cybersecurity one step at a time.<br>🎯 Aiming to be a Pen Tester</p>
+<p align="left">🎓 A student at IAU majoring in Cybersecurity.<br>💻 Developing my skills in cybersecurity one step at a time.<br>🎯 Aiming to be a Pen Tester</p>
 
 ###
 
@@ -16,8 +16,8 @@
 
 ###
 
-<div align="left">
-  <img height="100" src="https://miit.edu.mu/wp-content/uploads/2023/08/logosecurityplus.png"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="100" src="https://d2nzy1qhita6w.cloudfront.net/media/mf_webp/png/media/magefan_blog/i/s/is-comptia-security-plus-worth-it.webp"  />
 </div>
 
 ###
@@ -26,10 +26,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
+<div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -38,6 +38,14 @@
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
 </div>
 
 ###
@@ -46,9 +54,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+<div data-importer="techs" align="center">
+  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="40" alt="redhat logo"  />
 </div>
 
 ###
@@ -57,11 +64,13 @@
 
 ###
 
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img height="100" src="https://www.globalknowledge.com/-/media/global-knowledge/logos/certification-logos/comptia/networkplus-logo.jpg" alt="CompTIA A+ Logo" />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="100" src="https://d2nzy1qhita6w.cloudfront.net/media/mf_webp/png/media/magefan_blog/i/s/is-comptia-security-plus-worth-it.webp"  />
 </div>
 
+###
 
+<h2 align="left">TryHackMe</h2>
 
 <p align="center">
   <a href="https://tryhackme.com/p/Morax.Hax">
@@ -70,4 +79,5 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moraxhacks&show_icons=true&locale=en&layout=compact" alt="moraxhacks" />
 </p>
+
 
